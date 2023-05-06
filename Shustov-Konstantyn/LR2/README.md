@@ -6,7 +6,7 @@
 
 Спочатку було створено акаунт GCP, після чого нас зустрічає сторінка "Welcome".
 
-![](welcome.png)
+![](welcome.jpg)
 
 При натисканні на My first project відкривається меню проектів. Створимо новий за допомогою кнопки NEW PROJECT та виберемо назву ManILoveFishing.
 
@@ -40,11 +40,11 @@ gcloud compute instances create cod-instance --image-family=debian-10 --image-pr
 
 Тепер потрібно знайти необхідний нам регіон у списку. Він знаходиться під номером 87, підтверджуємо та очікуємо на створення машини.
 
-![](cloud-machine.png)
+![](cloud-machine.jpg)
 
 Тобто, машина вже створена. Це можна також підтвердити у графічному інтерфейсі GCP.
 
-![](both-instances.png)
+![](both-instances.jpg)
 
 Висновок
 
